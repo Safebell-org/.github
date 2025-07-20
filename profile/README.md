@@ -1,5 +1,5 @@
 # 🔔 셀프벨 (SelfBell) 프로젝트
-<img width="512" height="512" alt="Gemini_Generated_Image_463suy463suy463s_11zon" src="https://github.com/user-attachments/assets/50a05f90-7f3f-496c-b9f3-08da9d18806f" />
+<img width="128" height="128" alt="Gemini_Generated_Image_463suy463suy463s_11zon" src="https://github.com/user-attachments/assets/50a05f90-7f3f-496c-b9f3-08da9d18806f" />
 
 -----
 
