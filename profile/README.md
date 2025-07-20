@@ -1,19 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-따따 Android
-따따 프로젝트의 안드로이드 리포지토리입니다.
-
-
+## 셀프벨 - 범죄자 신상공개 API를 활용한 생활 안전 알림 서비스
 
 
 
@@ -22,9 +7,9 @@
 Notion에서 자세한 진행사항 보러가기 -> Notion
 
 🙌 팀원 소개
-조윤식	정재훈	나현주	홍지현
+곽은재	권유진	김성혁	박승원	신희	전혜린	추교준
 			
-@CHOYUNSIG	@deephoon	@HyeonJooooo	@Hongji03
+@____	@____
 
 Tech Stack
 다음은 프로젝트의 구현을 위해 사용하는 기술 스택을 정리한 표입니다.
@@ -105,3 +90,17 @@ targetSDK: 35, minSDK: 26
 기기명: Pixel 8
 API 35 (Android 15.0, x86_64)
 1080 x 2400 px (412 x 915 dp)
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
+
+
+
+
