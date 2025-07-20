@@ -1,108 +1,148 @@
-# 셀프벨 - 범죄자 신상공개 API를 활용한 생활 안전 알림 서비스
+# 🔔 셀프벨 (SelfBell) 프로젝트
+
 -----
 
+## 🙋‍♀️ 셀프벨(SelfBell) 프로젝트를 소개합니다\!
 
+**셀프벨**은 **범죄자 신상공개 API를 활용한 생활 안전 알림 서비스**입니다. 우리는 현대 사회의 안전에 대한 불안감을 해소하고, 사용자들이 주변 환경에서 발생할 수 있는 잠재적 위험에 대해 미리 인지하고 대비할 수 있도록 돕고자 합니다. 범죄자 신상공개 정보를 기반으로 한 실시간 알림과 안전 지도를 통해, 사용자 스스로가 안전을 지킬 수 있도록 지원하는 것을 목표로 합니다.
 
+-----
 
-📌 진행 사항 확인
+## 📌 진행 상황 확인
 
-Notion에서 자세한 진행사항 보러가기 -> Notion
+프로젝트의 상세한 진행 상황과 업데이트는 아래 Notion 페이지에서 확인하실 수 있습니다.
 
-🙌 팀원 소개
-곽은재	권유진	김성혁	박승원	신희	전혜린	추교준
-			
-@____	@____
+➡️ **[Notion에서 자세한 진행사항 보러가기]([Notion 페이지 링크])**
 
-Tech Stack
-다음은 프로젝트의 구현을 위해 사용하는 기술 스택을 정리한 표입니다.
+-----
 
-이름	설명
-Kotlin	프로그래밍 언어
-Jetpack Compose	인-코드 선언형 앱 설계
-Git	체계적인 코드 관리 및 협업
-다음과 같은 라이브러리 의존성을 가지고 있습니다.
+## 🙌 팀원 소개
 
-이름	버전	설명
-Jetpack Navigation	2.0.21	화면 전환 관리를 위한 라이브러리
-Hilt	2.51.1	의존성 주입을 위한 라이브러리
-Retrofit2	2.11.0	HTTP 통신을 위한 라이브러리
-SharedPreference	1.2.1	로컬 데이터 저장 라이브러리
-Room	2.6.1	로컬 데이터베이스 라이브러리
-Naver Map SDK	3.20.0	네이버 지도 사용을 위한 SDK
-KakaoSDK	2.20.6	카카오 로그인을 위한 SDK
-Android JUnit	1.2.1	단위 테스트를 위한 라이브러리
-본 프로젝트는 멀티 모듈 아키텍쳐를 기반으로, 뷰모델을 사용한 MVVM 디자인 패턴으로 구성합니다.
+저희 셀프벨 프로젝트는 다음과 같은 열정적인 팀원들로 구성되어 있습니다:
 
-Conventions
-다음은 본 프로젝트에 기여하는 개발자가 지켜야 할 컨벤션입니다.
+  * **곽은재**
+  * **권유진**
+  * **김성혁**
+  * **박승원**
+  * **신희**
+  * **전혜린**
+  * **추교준**
 
-Branch
-본 프로젝트는 Gitflow 브랜치 전략을 따릅니다.
+-----
 
-브랜치 전략 설명 이미지
-master: 배포 가능한 단위의 브랜치
-release: 배포 전 테스트가 가능한 단위의 브랜치
-develop: 개발 중인 브랜치
-feature/#issue_number: 개발 단위별 브랜치
-hotfix: master 브랜치의 긴급 버그 수정 브랜치
-모든 기능 개발은 다음 흐름을 따릅니다.
+## 💻 Tech Stack
 
-개발하고자 하는 기능에 대한 이슈를 등록하여 번호를 발급합니다.
-develop 브랜치로부터 분기하여 이슈 번호를 사용해 이름을 붙인 feature 브랜치를 만든 후 작업합니다.
-작업이 완료되면 develop 브랜치에 풀 요청을 작성하고, 팀원의 동의를 얻으면 병합합니다.
-Commit
-커밋은 Gitmoji를 사용해 시각적으로 작성합니다. 다음은 본 프로젝트의 커밋 형식입니다. 각 줄 사이에는 빈 줄이 추가로 있음에 주의해주세요.
+셀프벨 프로젝트의 구현을 위해 다음과 같은 기술 스택과 라이브러리 의존성을 사용합니다.
 
+### 핵심 기술
+
+| 이름              | 설명                 |
+| :---------------- | :------------------- |
+| **Kotlin** | 프로그래밍 언어      |
+| **Jetpack Compose** | 인-코드 선언형 앱 설계 |
+| **Git** | 체계적인 코드 관리 및 협업 |
+
+### 라이브러리 의존성
+
+| 이름                 | 버전    | 설명                        |
+| :------------------- | :------ | :-------------------------- |
+| **Jetpack Navigation** | 2.0.21  | 화면 전환 관리를 위한 라이브러리 |
+| **Hilt** | 2.51.1  | 의존성 주입을 위한 라이브러리    |
+| **Retrofit2** | 2.11.0  | HTTP 통신을 위한 라이브러리     |
+| **SharedPreference** | 1.2.1   | 로컬 데이터 저장을 위한 라이브러리 |
+| **Room** | 2.6.1   | 로컬 데이터베이스 라이브러리      |
+| **Naver Map SDK** | 3.20.0  | 네이버 지도 사용을 위한 SDK      |
+| **KakaoSDK** | 2.20.6  | 카카오 로그인을 위한 SDK         |
+| **Android JUnit** | 1.2.1   | 단위 테스트를 위한 라이브러리    |
+
+### 아키텍처 및 디자인 패턴
+
+본 프로젝트는 **멀티 모듈 아키텍처**를 기반으로, **뷰모델(ViewModel)을 사용한 MVVM 디자인 패턴**으로 구성됩니다.
+
+-----
+
+## 🌈 Contribution Guidelines
+
+셀프벨 프로젝트에 기여하고자 하는 모든 개발자분들은 다음 컨벤션을 준수하여 효율적이고 체계적인 협업을 지향합니다.
+
+### Branch
+
+본 프로젝트는 **Gitflow 브랜치 전략**을 따릅니다.
+
+\<p align="center"\>
+\<img src="[https://nvie.com/img/git-model@2x.png](https://www.google.com/search?q=https://nvie.com/img/git-model%402x.png)" alt="Gitflow Branch Strategy Diagram" width="700"/\>
+\</p\>
+
+  * **`master`**: 배포 가능한 단위의 브랜치
+  * **`release`**: 배포 전 테스트가 가능한 단위의 브랜치
+  * **`develop`**: 개발 중인 브랜치
+  * **`feature/#issue_number`**: 개발 단위별 브랜치
+  * **`hotfix`**: `master` 브랜치의 긴급 버그 수정 브랜치
+
+**모든 기능 개발은 다음 흐름을 따릅니다:**
+
+1.  개발하고자 하는 기능에 대한 **이슈를 등록**하여 번호를 발급합니다.
+2.  `develop` 브랜치로부터 분기하여 **이슈 번호를 사용해 이름을 붙인 `feature` 브랜치를 만든 후 작업**합니다.
+3.  작업이 완료되면 `develop` 브랜치에 **풀 요청(Pull Request)을 작성**하고, 팀원의 동의를 얻으면 병합합니다.
+
+### Commit
+
+커밋은 [**Gitmoji**](https://gitmoji.dev/)를 사용해 시각적으로 작성합니다. 다음은 본 프로젝트의 커밋 형식입니다. 각 줄 사이에는 빈 줄이 추가로 있음에 주의해주세요.
+
+```
 [깃모지] [제목]
 
 [본문]
 
 [이슈 번호 참조(선택)]
-예시)
+```
 
+**예시:**
+
+```
 :bug: 버튼 버그 수정
 
 키보드 콜백이 불러지지 않는 버그를 수정
 
 관련 이슈 번호: #123, #234
-각 깃모지의 의미는 이 블로그를 참고합니다. Android Studio 제공 플러그인을 사용하여 깃모지를 편리하게 이용할 수 있습니다.
+```
 
-Issue
-이슈는 본 리포지토리에 등록된 목적에 맞는 이슈 템플릿을 사용하여 작성합니다.
+각 깃모지의 의미는 [이 블로그](https://www.google.com/search?q=https://velog.io/%40eun_yeong/Gitmoji-%25EC%25BB%25A4%25EB%25B0%258B-%25EC%25BD%2598%25EB%25B2%25A4%25EC%2585%2598-%25EC%259D%25B4%25EB%25AA%25A8%25EC%25A7%2580-%25EC%2582%25AC%25EC%259A%25A9%25ED%2595%2598%25EA%25B8%25B0)를 참고합니다. Android Studio 제공 플러그인을 사용하여 깃모지를 편리하게 이용할 수 있습니다.
 
-Feature Template: 기능 추가를 위한 이슈에 사용
-Bug Template: 버그 수정을 위한 이슈에 사용
-Pull Request
-풀 요청은 본 리포지토리에 등록된 템플릿을 사용하여 작성합니다.
+### Issue
 
-Code
-코드의 스타일은 Android 공식문서의 Kotlin 스타일 가이드를 최대한 따릅니다. 다음은 주요 네이밍 규칙입니다.
+이슈는 본 리포지토리에 등록된 목적에 맞는 **이슈 템플릿을 사용하여 작성**합니다.
 
-작성되는 모든 소스 파일은 UTF-8로 인코딩되어야 합니다.
-코틀린 파일의 제목은 되도록이면 PascalCase를 사용하여야 합니다.
-컴포저블 함수의 이름은 PascalCase, 그 외 함수의 이름은 동사로 시작하는 camelCase를 사용하며, 변수명은 camelCase를 사용합니다. (람다식을 저장하는 변수도 camelCase를 사용합니다.)
-콜백 함수를 전달하는 변수일 경우 on으로 시작합니다. ex) onButtonClicked, onDataLoaded
-안드로이드 스튜디오 상의 IDE의 노란 줄에 주의합니다.
-Environment
+  * **Feature Template**: 기능 추가를 위한 이슈에 사용
+  * **Bug Template**: 버그 수정을 위한 이슈에 사용
+
+### Pull Request
+
+풀 요청은 본 리포지토리에 등록된 **템플릿을 사용하여 작성**합니다.
+
+### Code
+
+코드의 스타일은 [**Android 공식 문서의 Kotlin 스타일 가이드**](https://developer.android.com/kotlin/style-guide?hl=ko)를 최대한 따릅니다. 다음은 주요 네이밍 규칙입니다.
+
+  * 작성되는 모든 소스 파일은 **UTF-8로 인코딩**되어야 합니다.
+  * 코틀린 파일의 제목은 되도록이면 **PascalCase**를 사용하여야 합니다.
+  * 컴포저블 함수의 이름은 **PascalCase**, 그 외 함수의 이름은 동사로 시작하는 **camelCase**를 사용하며, 변수명은 **camelCase**를 사용합니다. (람다식을 저장하는 변수도 camelCase를 사용합니다.)
+  * 콜백 함수를 전달하는 변수일 경우 `on`으로 시작합니다. 예) `onButtonClicked`, `onDataLoaded`
+  * 안드로이드 스튜디오 상의 IDE의 노란 줄에 주의합니다.
+
+-----
+
+## 🛠️ Environment
+
 다음은 본 프로젝트의 안드로이드 개발 환경입니다.
 
-targetSDK: 35, minSDK: 26
-안드로이드 스튜디오 버전: Ladybug | 2024.2.1 또는 그 히상
-테스트 환경: 안드로이드 스튜디오 제공 에뮬레이터(AVD)
-기기명: Pixel 8
-API 35 (Android 15.0, x86_64)
-1080 x 2400 px (412 x 915 dp)
+  * **targetSDK**: 35, **minSDK**: 26
+  * **안드로이드 스튜디오 버전**: Ladybug | 2024.2.1 또는 그 이상
+  * **테스트 환경**: 안드로이드 스튜디오 제공 에뮬레이터(AVD)
+      * **기기명**: Pixel 8
+      * **API**: 35 (Android 15.0, x86\_64)
+      * **해상도**: 1080 x 2400 px (412 x 915 dp)
 
-**Here are some ideas to get you started:**
+-----
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-
-
-
-
-
+궁금한 점이 있으시거나 프로젝트 참여에 관심이 있으시다면 언제든지 문의해주세요\!
