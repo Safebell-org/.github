@@ -70,9 +70,8 @@ SelfBell은 범죄자 사전 정보 알림, 원터치 긴급 신고, 안심 동�
 
 본 프로젝트는 **Gitflow 브랜치 전략**을 따릅니다.
 
-\<p align="center"\>
-\<img src="[https://nvie.com/img/git-model@2x.png](https://www.google.com/search?q=https://nvie.com/img/git-model%402x.png)" alt="Gitflow Branch Strategy Diagram" width="700"/\>
-\</p\>
+<img width="1150" height="1524" alt="git" src="https://github.com/user-attachments/assets/6754c9a1-072e-4b74-b10d-a885f6887de4" />
+
 
   * **`master`**: 배포 가능한 단위의 브랜치
   * **`release`**: 배포 전 테스트가 가능한 단위의 브랜치
