@@ -8,11 +8,13 @@ SafeBell 범죄자 사전 정보 알림, 원터치 긴급 신고, 안심 동행 
 
 -----
 
-## 📌 진행 상황 확인
+## 📌 시연 화면
 
-프로젝트의 상세한 진행 상황과 업데이트는 아래 Notion 페이지에서 확인하실 수 있습니다.
+![KakaoTalk_Photo_2025-08-26-15-05-29 001](https://github.com/user-attachments/assets/a8412820-d900-4dd0-9626-cc64b77645dc)
 
-➡️ **[Notion에서 자세한 진행사항 보러가기](https://www.notion.so/237f30f133af809f84b1d7e4d40358f4)**
+<img width="1080" height="2424" alt="history" src="https://github.com/user-attachments/assets/85b30772-e5ef-44a2-8b32-ed1b8d617400" />
+
+
 
 -----
 
