@@ -10,9 +10,10 @@ SafeBell 범죄자 사전 정보 알림, 원터치 긴급 신고, 안심 동행 
 
 ## 📌 시연 화면
 
-![KakaoTalk_Photo_2025-08-26-15-05-29 001](https://github.com/user-attachments/assets/a8412820-d900-4dd0-9626-cc64b77645dc)
+<img width="540" height="1212" alt="landingScreen" src="https://github.com/user-attachments/assets/33a53f8d-f5d5-4789-a309-66d7835e8aac" />
 
-<img width="1080" height="2424" alt="history" src="https://github.com/user-attachments/assets/85b30772-e5ef-44a2-8b32-ed1b8d617400" />
+
+<img width="540" height="1212" alt="history" src="https://github.com/user-attachments/assets/85b30772-e5ef-44a2-8b32-ed1b8d617400" />
 
 
 
