@@ -1,7 +1,6 @@
 # 🔔 세이프벨 (SafeBell) 프로젝트
-<img width="128" height="128" alt="Gemini_Generated_Image_463suy463suy463s_11zon" src="https://github.com/user-attachments/assets/50a05f90-7f3f-496c-b9f3-08da9d18806f" />
+<img width="633" height="192" alt="Frame 463 (2)" src="https://github.com/user-attachments/assets/d31a1cb6-0cc5-43d1-b8a5-3b9db9e2d747" />
 
------
 
 ## 🙋‍♀️ 세이프벨(SafeBell) 프로젝트를 소개합니다\!
 
