@@ -10,14 +10,9 @@ SafeBell 범죄자 사전 정보 알림, 원터치 긴급 신고, 안심 동행 
 
 ## 📌 시연 화면
 
-<img width="360" height="864" alt="landingScreen" src="https://github.com/user-attachments/assets/33a53f8d-f5d5-4789-a309-66d7835e8aac" />
-<img width="360" height="864" alt="landingScreen" src="https://github.com/user-attachments/assets/5deb72d6-26fc-4b3d-9a1f-5fba5689b79d" />
-<img width="360" height="864" alt="landingScreen" src="https://github.com/user-attachments/assets/8554f249-ff60-49dd-bce9-62c0b23dbf7c" />
-<img width="360" height="864" alt="history" src="https://github.com/user-attachments/assets/85b30772-e5ef-44a2-8b32-ed1b8d617400" />
-<img width="360" height="864" alt="history_detail" src="https://github.com/user-attachments/assets/066106a0-8a88-425a-9d65-1da5940e50da" />
-<img width="360" height="864" alt="myPage" src="https://github.com/user-attachments/assets/c82228ee-c038-4231-8008-8c29e9bf93b3" />
-<img width="360" height="864" alt="history" src="https://github.com/user-attachments/assets/cb95b207-04c4-4201-ab03-9c7bca28b694" />
-
+| Landing Screen 1 | Landing Screen 2 | Landing Screen 3 | History List | History Detail | My Page | History (Guardian) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img width="360" alt="landingScreen" src="https://github.com/user-attachments/assets/33a53f8d-f5d5-4789-a309-66d7835e8aac" /> | <img width="360" alt="landingScreen" src="https://github.com/user-attachments/assets/5deb72d6-26fc-4b3d-9a1f-5fba5689b79d" /> | <img width="360" alt="landingScreen" src="https://github.com/user-attachments/assets/8554f249-ff60-49dd-bce9-62c0b23dbf7c" /> | <img width="360" alt="history" src="https://github.com/user-attachments/assets/85b30772-e5ef-44a2-8b32-ed1b8d617400" /> | <img width="360" alt="history_detail" src="https://github.com/user-attachments/assets/066106a0-8a88-425a-9d65-1da5940e50da" /> | <img width="360" alt="myPage" src="https://github.com/user-attachments/assets/c82228ee-c038-4231-8008-8c29e9bf93b3" /> | <img width="360" alt="history" src="https://github.com/user-attachments/assets/cb95b207-04c4-4201-ab03-9c7bca28b694" /> |
 
 -----
 
