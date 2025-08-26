@@ -27,18 +27,88 @@
 
 ## 🧑‍💻 팀원 소개
 
-| 이름 | 역할 |
-| :---: | :---: |
-| **곽은재** | BE |
-| **권유진** | BE |
-| **김성혁** | BE |
-| **박승원** | BE |
-| **김신희** | FE |
-| **전혜린** | FE |
-| **추교준** | FE |
+### 기획
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/hayrin0603">
+        <img src="https://github.com/hayrin0603.png?size=140" width="100" height="100" alt="전혜린"/>
+        <br/>
+        <sub><b>전혜린</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 디자인
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/winterizcoming">
+        <img src="https://github.com/winterizcoming.png?size=140" width="100" height="100" alt="박승원"/>
+        <br/>
+        <sub><b>박승원</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Backend
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/shinheekim">
+        <img src="https://github.com/shinheekim.png?size=140" width="100" height="100" alt="김신희"/>
+        <br/>
+        <sub><b>김신희</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kwakeunjae">
+        <img src="https://github.com/kwakeunjae.png?size=140" width="100" height="100" alt="곽은재"/>
+        <br/>
+        <sub><b>곽은재</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kwonyuujin">
+        <img src="https://github.com/kwonyuujin.png?size=140" width="100" height="100" alt="권유진"/>
+        <br/>
+        <sub><b>권유진</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Frontend
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/BigHead-Kor">
+        <img src="https://github.com/BigHead-Kor.png?size=140" width="100" height="100" alt="김성혁"/>
+        <br/>
+        <sub><b>김성혁</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chubeloop">
+        <img src="https://github.com/chubeloop.png?size=140" width="100" height="100" alt="추교준"/>
+        <br/>
+        <sub><b>추교준</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
 ## 🌈 Contribution
 
-프로젝트 기여에 관심이 있으신가요? 저희는 효율적이고 체계적인 협업을 위해 정해진 **[컨벤션 가이드](링크-여기에-추가)**를 따르고 있습니다. 궁금한 점이 있으시거나 프로젝트 참여에 관심이 있으시다면 언제든지 문의해주세요!
+프로젝트 기여에 관심이 있으신가요? 저희는 효율적이고 체계적인 협업을 위해 정해진 [컨벤션 가이드](링크-여기에-추가)를 따르고 있습니다. 궁금한 점이 있으시거나 프로젝트 참여에 관심이 있으시다면 언제든지 문의해주세요!
