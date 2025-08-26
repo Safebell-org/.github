@@ -20,9 +20,9 @@
 
 ## 📱 시연 화면
 
-| Landing | Login | Home | History | Detail | My Page | Guardian View |
+| Login | Home | History | Detail | My Page | Guardian View |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/33a5f96d-f5d5-4789-a309-66d7835e8aac" width="250"> | <img src="https://github.com/user-attachments/assets/5deb72d6-26fc-4b3d-9a1f-5fba5689b79d" width="250"> | <img src="https://github.com/user-attachments/assets/8554f249-ff60-49dd-bce9-62c0b23dbf7c" width="250"> | <img src="https://github.com/user-attachments/assets/85b30772-e5ef-44a2-8b32-ed1b8d617400" width="250"> | <img src="https://github.com/user-attachments/assets/066106a0-8a88-425a-9d65-1da5940e50da" width="250"> | <img src="https://github.com/user-attachments/assets/c82228ee-c038-4231-8008-8c29e9bf93b3" width="250"> | <img src="https://github.com/user-attachments/assets/cb95b207-04c4-4201-ab03-9c7bca28b694" width="250"> |
+| <img src="https://github.com/user-attachments/assets/33a5f96d-f5d5-4789-a309-66d7835e8aac" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/5deb72d6-26fc-4b3d-9a1f-5fba5689b79d" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/8554f249-ff60-49dd-bce9-62c0b23dbf7c" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/85b30772-e5ef-44a2-8b32-ed1b8d617400" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/066106a0-8a88-425a-9d65-1da5940e50da" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/c82228ee-c038-4231-8008-8c29e9bf93b3" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/cb95b207-04c4-4201-ab03-9c7bca28b694" width="360" height="864"> |
 
 <br>
 
