@@ -1,38 +1,46 @@
-# 🔔 세이프벨 (SafeBell) 프로젝트
-<img width="633" height="192" alt="Frame 463 (2)" src="https://github.com/user-attachments/assets/d31a1cb6-0cc5-43d1-b8a5-3b9db9e2d747" />
 
+\<br\>
 
-## 🙋‍♀️ 세이프벨(SafeBell) 프로젝트를 소개합니다\!
+\<div align="center"\>
+\<img src="[https://github.com/user-attachments/assets/d31a1cb6-0cc5-43d1-b8a5-3b9db9e2d747](https://github.com/user-attachments/assets/d31a1cb6-0cc5-43d1-b8a5-3b9db9e2d747)" alt="SafeBell Banner" width="600"/\>
+\</div\>
 
-SafeBell 범죄자 사전 정보 알림, 원터치 긴급 신고, 안심 동행 매칭 서비스를 통해 사용자의 일상 안전을 책임지는 모바일 애플리케이션입니다. 예측할 수 없는 위험으로부터 소중한 사람들을 보호하고, 긴급 상황에 신속하게 대응하며, 귀가 시 안심할 수 있는 동행 환경을 제공하는 것을 목표로 합니다.
+\<h2 align="center"\>당신의 일상을 지키는 안전 솔루션, 세이프벨 🔔\</h2\>
 
------
+\*\*세이프벨(SafeBell)\*\*은 예측 불가능한 위험으로부터 사용자와 소중한 사람들을 지키기 위해 탄생한 모바일 안전 애플리케이션입니다. 범죄자 정보 알림, 원터치 긴급 신고, 안심귀가 동행 서비스를 통해 일상 속 불안을 해소하고 모두가 안심할 수 있는 환경을 만드는 것을 목표로 합니다.
 
-## 📌 시연 화면
+\<br\>
 
-| Landing Screen 1 | Landing Screen 2 | Landing Screen 3 | History List | History Detail | My Page | History (Guardian) |
+## ✨ 주요 기능
+
+| **범죄자 정보 알림** | **원터치 긴급 신고** | **안심귀가 동행** |
+| :---: | :---: | :---: |
+| 내 주변에 등록된 성범죄자의\<br\>위치 정보를 미리 알려줘요. | 버튼 하나만 누르면 등록된 보호자에게\<br\>내 위치와 함께 긴급 문자를 보내요. | 귀갓길 경로를 보호자에게 실시간으로\<br\>공유하며 안전하게 이동해요. |
+
+\<br\>
+
+## 📱 시연 화면
+
+| Landing | Login | Home | History | Detail | My Page | Guardian View |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img width="360" alt="landingScreen" src="https://github.com/user-attachments/assets/33a53f8d-f5d5-4789-a309-66d7835e8aac" /> | <img width="360" alt="landingScreen" src="https://github.com/user-attachments/assets/5deb72d6-26fc-4b3d-9a1f-5fba5689b79d" /> | <img width="360" alt="landingScreen" src="https://github.com/user-attachments/assets/8554f249-ff60-49dd-bce9-62c0b23dbf7c" /> | <img width="360" alt="history" src="https://github.com/user-attachments/assets/85b30772-e5ef-44a2-8b32-ed1b8d617400" /> | <img width="360" alt="history_detail" src="https://github.com/user-attachments/assets/066106a0-8a88-425a-9d65-1da5940e50da" /> | <img width="360" alt="myPage" src="https://github.com/user-attachments/assets/c82228ee-c038-4231-8008-8c29e9bf93b3" /> | <img width="360" alt="history" src="https://github.com/user-attachments/assets/cb95b207-04c4-4201-ab03-9c7bca28b694" /> |
+| \<img src="[https://github.com/user-attachments/assets/33a53f8d-f5d5-4789-a309-66d7835e8aac](https://github.com/user-attachments/assets/33a53f8d-f5d5-4789-a309-66d7835e8aac)" width="250"\> | \<img src="[https://github.com/user-attachments/assets/5deb72d6-26fc-4b3d-9a1f-5fba5689b79d](https://github.com/user-attachments/assets/5deb72d6-26fc-4b3d-9a1f-5fba5689b79d)" width="250"\> | \<img src="[https://github.com/user-attachments/assets/8554f249-ff60-49dd-bce9-62c0b23dbf7c](https://github.com/user-attachments/assets/8554f249-ff60-49dd-bce9-62c0b23dbf7c)" width="250"\> | \<img src="[https://github.com/user-attachments/assets/85b30772-e5ef-44a2-8b32-ed1b8d617400](https://github.com/user-attachments/assets/85b30772-e5ef-44a2-8b32-ed1b8d617400)" width="250"\> | \<img src="[https://github.com/user-attachments/assets/066106a0-8a88-425a-9d65-1da5940e50da](https://github.com/user-attachments/assets/066106a0-8a88-425a-9d65-1da5940e50da)" width="250"\> | \<img src="[https://github.com/user-attachments/assets/c82228ee-c038-4231-8008-8c29e9bf93b3](https://github.com/user-attachments/assets/c82228ee-c038-4231-8008-8c29e9bf93b3)" width="250"\> | \<img src="[https://github.com/user-attachments/assets/cb95b207-04c4-4201-ab03-9c7bca28b694](https://github.com/user-attachments/assets/cb95b207-04c4-4201-ab03-9c7bca28b694)" width="250"\> |
 
------
+\<br\>
 
-## 🙌 팀원 소개
+## 🧑‍💻 팀원 소개
 
-저희 셀프벨 프로젝트는 다음과 같은 열정적인 팀원들로 구성되어 있습니다:
+| 이름 | 역할 |
+| :---: | :---: |
+| **곽은재** | BE |
+| **권유진** | BE |
+| **김성혁** | BE |
+| **박승원** | BE |
+| **김신희** | FE |
+| **전혜린** | FE |
+| **추교준** | FE |
 
-  * **곽은재**
-  * **권유진**
-  * **김성혁**
-  * **박승원**
-  * **김신희**
-  * **전혜린**
-  * **추교준**
+\<br\>
 
------
+## 🌈 Contribution
 
-## 🌈 Contribution Guidelines
-
-셀프벨 프로젝트에 기여하고자 하는 모든 개발자분들은 다음 컨벤션을 준수하여 효율적이고 체계적인 협업을 지향합니다.
-
----
-궁금한 점이 있으시거나 프로젝트 참여에 관심이 있으시다면 언제든지 문의해주세요\!
+프로젝트 기여에 관심이 있으신가요? 저희는 효율적이고 체계적인 협업을 위해 정해진 \*\*[컨벤션 가이드](https://www.google.com/search?q=%EB%A7%81%ED%81%AC-%EC%97%AC%EA%B8%B0%EC%97%90-%EC%B6%94%EA%B0%80)\*\*를 따르고 있습니다. 궁금한 점이 있으시거나 프로젝트 참여에 관심이 있으시다면 언제든지 문의해주세요\!
